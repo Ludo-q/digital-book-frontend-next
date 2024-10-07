@@ -1,5 +1,13 @@
+# Digital Book Frontend Next
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+# Documentation
+## Overview
+To make reading books, particularly in philosophy, science, and educational genres, easier and more interactive. <br>
+[Digital Book Overview](https://l-qerraxhija.atlassian.net/wiki/spaces/DB/overview) <br>
+[Digital Book Front End](https://l-qerraxhija.atlassian.net/wiki/spaces/DB/pages/96272385/Front+End)
+
+# Develop
 ## Getting Started
 
 First, run the development server:
